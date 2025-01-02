@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc1a546b61b8e946bc353779fcd45bd, type: 3}
+  m_Name: Blue Wolf Armor
+  m_EditorClassIdentifier: 
+  itemType: 1
+  ItemName: Blue Wolf Armor
+  Icon: {fileID: 288293509, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  ItemId: fdcec60e8ffcf644f8a6698f8b6c289d
+  DropChance: 67
+  equipmentType: 1
+  ItemCoolDown: 5
+  effects:
+  - {fileID: 11400000, guid: 2c847ff5b80eae842a177c33504c17dc, type: 2}
+  Strength: 4
+  Agility: 0
+  Intelligence: 0
+  Vitality: 0
+  Damage: 0
+  CritChance: 0
+  CritPower: 0
+  Health: 50
+  Armor: 15
+  Evasion: 0
+  MagicalResistance: 15
+  FireDamage: 0
+  IceDamage: 0
+  LightingDamage: 0
+  CraftingMaterials:
+  - data: {fileID: 11400000, guid: af79d45de746ef746848c7d81e53422a, type: 2}
+    StackSize: 5
+  - data: {fileID: 11400000, guid: 988c48b91fe4fa14795cf84e40a7b685, type: 2}
+    StackSize: 10
+  - data: {fileID: 11400000, guid: a81ce5edeeb9c26458eb4c10c783f657, type: 2}
+    StackSize: 10

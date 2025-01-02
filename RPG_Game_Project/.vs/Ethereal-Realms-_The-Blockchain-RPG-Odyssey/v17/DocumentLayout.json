@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|d:\\kingston\\final_project\\ethereal-realms-_the-blockchain-rpg-odyssey\\assets\\scripts\\ui\\uimainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|d:\\kingston\\final_project\\ethereal-realms-_the-blockchain-rpg-odyssey\\assets\\scripts\\ui\\uilobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uilobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|d:\\kingston\\final_project\\ethereal-realms-_the-blockchain-rpg-odyssey\\assets\\scripts\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|d:\\kingston\\final_project\\ethereal-realms-_the-blockchain-rpg-odyssey\\assets\\rfg\\near\\scripts\\nearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\rfg\\near\\scripts\\nearcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\assets\\scripts\\managers\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\assets\\scripts\\managers\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836A41AB-FA77-ED27-7CEE-6A1B3488197D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIMainMenu.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\UI\\UIMainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMainMenu.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\UI\\UIMainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIMainMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:13:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Save And Load\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save And Load\\SaveManager.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Save And Load\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save And Load\\SaveManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwCkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:11:47.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UILobby.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\UI\\UILobby.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UILobby.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\UI\\UILobby.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UILobby.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:11:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NearController.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\RFG\\NEAR\\Scripts\\NearController.cs",
+              "RelativeDocumentMoniker": "Assets\\RFG\\NEAR\\Scripts\\NearController.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\RFG\\NEAR\\Scripts\\NearController.cs",
+              "RelativeToolTip": "Assets\\RFG\\NEAR\\Scripts\\NearController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:09:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Managers\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PlayerManager.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Managers\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\PlayerManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:42:29.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwCoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:41:26.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Managers\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LevelManager.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\Managers\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LevelManager.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAADwv8MAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T03:16:28.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
+              "ToolTip": "D:\\kingston\\FInal_Project\\Ethereal-Realms-_The-Blockchain-RPG-Odyssey\\Assets\\Scripts\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:59:06.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

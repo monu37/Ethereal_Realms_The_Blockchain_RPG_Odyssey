@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e8be35206c46d42b8b01e1361e8058, type: 3}
+  m_Name: Ice ANd Fire Effect
+  m_EditorClassIdentifier: 
+  EffectDescription: Create Ice and Fire on 3rd attack.
+  IceAndFirePrefab: {fileID: 4443815299945186927, guid: 28b4531c2b394d249a07aa2c448c63d7, type: 3}
+  XVelocity: 10
